@@ -1,0 +1,24 @@
+{
+  "name": "qa01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pngabriele/aulateste01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.6.1",
+    "test": "^3.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/pngabriele/aulateste01/issues"
+  },
+  "homepage": "https://github.com/pngabriele/aulateste01#readme",
+  "description": ""
+}
